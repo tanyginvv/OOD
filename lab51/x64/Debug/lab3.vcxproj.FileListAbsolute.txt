@@ -1,0 +1,4 @@
+D:\SFML-2.6.1\lab3\x64\Debug\lab3.exe
+D:\SFML-2.6.1\lab4\x64\Debug\lab3.exe
+D:\SFML-2.6.1\lab5\x64\Debug\lab3.exe
+D:\SFML-2.6.1\lab51\x64\Debug\lab3.exe
